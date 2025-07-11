@@ -1,5 +1,5 @@
 Data downloaded from: https://freedomhouse.org/report/freedom-net
-
+ 
 # AdventureWorks Sales Dashboards
 
 <details>
