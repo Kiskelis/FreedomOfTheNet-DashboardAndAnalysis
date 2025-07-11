@@ -18,36 +18,49 @@ Data downloaded from: https://freedomhouse.org/report/freedom-net
 
 ---
 
-## 🖼 Executive Dashboard – Screenshots
+## 🖼 Dashboard
 
-| (FOTN/Images/main_forGIT.png) |
+![Freedom on the Net Dashboard](FOTN/Images/main_forGIT.png)
 
 ---
 
 ## 📊 Project Overview
 
-Explain that with this personal project I wanted to analyse something that interests me and have a true meaning and here is the insights and noticed trends:
+With this personal project, I set out to analyze a subject that genuinely interests me—global internet freedom—and extract meaningful, actionable insights. Below are the key trends and observations uncovered through this analysis:
 
-Key Insights & Trends
-Overall Freedom slowly but seady going into the cprrect direction The Total Freedom Score is rising slowly (~+0.3 pts/yr)
+### Key Insights & Trends
 
-Internet-Access Obstacle scores grow ~+0.27 pts/year (higher = worse obstacles).
-User-Rights Violations gradually improving (use some different wording like violations are going down or something)
+- **Overall Freedom Is Improving Gradually**  
+  The average Total Freedom Score increased by approximately **+0.3 points per year** from 2020 to 2024, indicating a steady, positive trajectory.
 
-Add more insights and analysis
+- **Internet-Access Barriers Are Increasing**  
+  The Internet-Access Obstacles score worsened by **+0.27 points per year**, signaling growing connectivity challenges worldwide.
+
+- **Content Limitations Are Easing Slightly**  
+  The Content Limitations score declined by **–0.06 points per year**, reflecting small but consistent reductions in censorship practices.
+
+- **User-Rights Violations Are Decreasing**  
+  The User-Rights Violations score improved by **+0.08 points per year** (lower = fewer violations), demonstrating incremental gains in digital rights protections.
+
+- **Uneven Progress Across Metrics**  
+  While overall freedom advances, the pace of rising access obstacles outstrips the gradual easing of content controls—a split trajectory akin to a highway with some newly repaved lanes but more speed bumps.
+
+- **Projected Outlook (2025–2027)**  
+  Extrapolating these linear trends suggests modest further gains in overall freedom and user rights, ongoing increases in access barriers, and slight easing of content restrictions—highlighting targeted opportunities in connectivity solutions and secure communication tools.
 
 ---
 
-## 🧗‍♂️ Challenges & What I Learned
+## 🧗‍♂️ Challenges & Lessons Learned
 
-- Creating new lookup tables, merging tables to get correct data,
+- **Data Modeling:**  
+  Building lookup tables and merging diverse sources to ensure a consistent, accurate dataset.
 
--  doing reasarch on factars tha are beyond dataset
+- **Contextual Research:**  
+  Investigating external factors—policy shifts, infrastructure changes—that influence the raw metrics.
 
-- merging tables to get correct data,
+- **Insight Communication:**  
+  Moving beyond chart-driven reports to narrative-rich storytelling by adding clear written takeaways alongside visualizations, improving stakeholder understanding and engagement.
 
-- **Communicating insights clearly**  
-  Adding a sidebar with written takeaways helped me shift focus from “just showing charts” to “telling the story behind the data.” This improved my business communication and insight delivery.
+---
 
-Overall, this project significantly improved my skills in **Power BI development, data storytelling, stakeholder thinking**, and **analytical design**.
-
+**Overall, this project honed my skills in Power BI development, data storytelling, stakeholder-focused communication, and analytical design, while deepening my understanding of global internet freedom trends.**
