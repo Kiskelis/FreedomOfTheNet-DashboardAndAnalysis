@@ -26,29 +26,25 @@ Data downloaded from: https://freedomhouse.org/report/freedom-net
 
 ## 📊 Project Overview
 
-With this personal project, I set out to analyze a subject that genuinely interests me—global internet freedom—and extract meaningful, actionable insights. Below are the key trends and observations uncovered through this analysis:
+With this personal project, I set out to analyze a subject that genuinely interests me - global internet freedom. Extract meaningful, actionable insights. Below are the key trends and observations uncovered through this analysis:
 
 ### Key Insights & Trends
 
 - **Overall Freedom Is Improving Gradually**  
   The average Total Freedom Score increased by approximately **+0.3 points per year** from 2020 to 2024, indicating a steady, positive trajectory.
 
-- **Internet-Access Barriers Are Increasing**  
-  The Internet-Access Obstacles score worsened by **+0.27 points per year**, signaling growing connectivity challenges worldwide.
-
-- **Content Limitations Are Easing Slightly**  
-  The Content Limitations score declined by **–0.06 points per year**, reflecting small but consistent reductions in censorship practices.
-
-- **User-Rights Violations Are Decreasing**  
-  The User-Rights Violations score improved by **+0.08 points per year** (lower = fewer violations), demonstrating incremental gains in digital rights protections.
-
-- **Uneven Progress Across Metrics**  
-  While overall freedom advances, the pace of rising access obstacles outstrips the gradual easing of content controls—a split trajectory akin to a highway with some newly repaved lanes but more speed bumps.
-
 - **Projected Outlook (2025–2027)**  
-  Extrapolating these linear trends suggests modest further gains in overall freedom and user rights, ongoing increases in access barriers, and slight easing of content restrictions—highlighting targeted opportunities in connectivity solutions and secure communication tools.
+  Analyzing these linear trends suggests modest further gains in overall freedom and user rights.
+
+- **Widening Freedom Divide**  
+  High-scoring democracies continue pulling ahead while many authoritarian regimes (notably: China/Myanmar, and parts of Eurasia) tighten online controls.
+
+
+- **Strategic Market Opportunities**  
+  Alternative connectivity (satellite/mesh),  privacy-first platforms can thrive by addressing region-specific barriers and emerging openings.
 
 ---
+
 
 ## 🧗‍♂️ Challenges & Lessons Learned
 
@@ -61,6 +57,3 @@ With this personal project, I set out to analyze a subject that genuinely intere
 - **Insight Communication:**  
   Moving beyond chart-driven reports to narrative-rich storytelling by adding clear written takeaways alongside visualizations, improving stakeholder understanding and engagement.
 
----
-
-**Overall, this project honed my skills in Power BI development, data storytelling, stakeholder-focused communication, and analytical design, while deepening my understanding of global internet freedom trends.**
