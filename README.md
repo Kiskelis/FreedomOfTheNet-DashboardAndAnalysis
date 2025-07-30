@@ -1,7 +1,5 @@
 Data Source: [Freedom House – Freedom on the Net](https://freedomhouse.org/report/freedom-net)
 
-# AdventureWorks Sales Dashboards
-
 <details>
 <summary>📂 Project Structure</summary>
 
@@ -36,7 +34,7 @@ Data Source: [Freedom House – Freedom on the Net](https://freedomhouse.org/rep
 
 ---
 
-# 🌐 Freedom on the Net Dashboard (2020–2024)
+# 🌐 Freedom on the Net Analysis (2020–2024)
 
 This dashboard explores a topic I’ve been personally curious about - how internet freedom is changing around the world.  
 Over five years of Freedom House data were transformed into a dynamic Power BI report that helps track trends, highlight risks, and point to emerging opportunities for digital rights, infrastructure, and secure access tools.
