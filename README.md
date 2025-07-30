@@ -20,7 +20,7 @@ Data downloaded from: https://freedomhouse.org/report/freedom-net
 
 ## 🖼 Dashboard
 
-![Freedom on the Net Dashboard](FOTN/Images/main_forGIT.png)
+![Freedom on the Net Dashboard](FOTN/Images/main_forGIT.png) 
 
 ---
 
