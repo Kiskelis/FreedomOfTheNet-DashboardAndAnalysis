@@ -24,6 +24,18 @@ Data Source: [Freedom House – Freedom on the Net](https://freedomhouse.org/rep
 
 ---
 
+## 📊 Dashboard Highlights
+
+| Feature                  | Description                                                   |
+|--------------------------|---------------------------------------------------------------|
+| 🗺️ Interactive Maps       | Track freedom status and YoY score change by country          |
+| 📈 Trends Over Time      | Visualize yearly scores and user rights metrics               |
+| 🧭 Regional Comparisons  | Monitor how continents are progressing (or falling behind)    |
+| 📉 Top/Bottom Rankings   | Quickly see best and worst performers across years            |
+| 🧩 Country-Level Analysis | Drill down into individual country trends over 5 years       |
+
+---
+
 # 🌐 Freedom on the Net Dashboard (2020–2024)
 
 This dashboard explores a topic I’ve been personally curious about - how internet freedom is changing around the world.  
@@ -89,18 +101,6 @@ It’s designed with three main audiences in mind:
 ### 🏛️ For Policymakers & NGOs:
 - **Asia and Africa** are key focus areas: many countries are making small steps forward but remain mostly *Not Free*.
 - Watch **Europe** for early warning signs of democratic regression - especially in civil society protections.
-
----
-
-## 📊 Dashboard Highlights
-
-| Feature                  | Description                                                   |
-|--------------------------|---------------------------------------------------------------|
-| 🗺️ Interactive Maps       | Track freedom status and YoY score change by country          |
-| 📈 Trends Over Time      | Visualize yearly scores and user rights metrics               |
-| 🧭 Regional Comparisons  | Monitor how continents are progressing (or falling behind)    |
-| 📉 Top/Bottom Rankings   | Quickly see best and worst performers across years            |
-| 🧩 Country-Level Analysis | Drill down into individual country trends over 5 years       |
 
 ---
 
