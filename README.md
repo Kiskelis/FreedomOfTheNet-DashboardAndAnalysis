@@ -15,7 +15,20 @@ Data Source: [Freedom House – Freedom on the Net](https://freedomhouse.org/rep
 </details>
 
 ---
+## 📊 Project Overview
 
+For this project, I worked with the **Freedom on the Net** dataset covering the years **2020–2024**.  
+The raw data required extensive **cleaning, standardization, and restructuring** before it could be modeled effectively. This included:
+
+- Handling **inconsistent country naming** across different years.  
+- Converting the report’s qualitative assessments into **quantitative indicators** for analysis.  
+- Aligning yearly data to enable **trend comparisons and time-series analysis**.  
+
+Once the foundation was ready, I designed and built an **interactive Power BI dashboard**. The dashboard highlights **regional shifts, policy impacts, and emerging business opportunities** (e.g., VPN demand, e-commerce adaptation, digital rights advocacy).  
+
+This analysis was not a simple import-and-visualize exercise - it required careful **data modeling, measure creation, and thoughtful storytelling** to ensure that the insights are both **analytically sound** and **actionable**.  
+
+---
 ## 📸 Preview
 
 ![FOTN Demo](FOTN/Images/fotn_gif.gif)
