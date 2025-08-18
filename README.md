@@ -18,7 +18,7 @@ Data Source: [Freedom House – Freedom on the Net](https://freedomhouse.org/rep
 
 ## 📸 Preview
 
-![Freedom on the Net Dashboard](FOTN/Images/forGITHUB.png) 
+![FOTN Demo](FOTN/Images/fotn_gif.gif)
 
 ---
 
